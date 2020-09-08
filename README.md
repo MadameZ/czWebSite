@@ -1,3 +1,9 @@
 # czWebSite
 
-<div style="width:1000px;max-width:100%;">![webSite](https://user-images.githubusercontent.com/39524369/92461361-80368a80-f1c9-11ea-8469-902ee65da253.gif)</div>
+My web site create with expressJS & MongoDB in the back-end :
+nodemon
+
+Create with React in the front-end : 
+npm start
+
+![webSite](https://user-images.githubusercontent.com/39524369/92461361-80368a80-f1c9-11ea-8469-902ee65da253.gif)
